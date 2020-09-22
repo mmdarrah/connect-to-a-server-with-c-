@@ -1,0 +1,10 @@
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\bin\Debug\Avdelningsrapport.exe.config
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\bin\Debug\Avdelningsrapport.exe
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\bin\Debug\Avdelningsrapport.pdb
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.csprojAssemblyReference.cache
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.Form1.resources
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.Properties.Resources.resources
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.csproj.GenerateResource.cache
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.csproj.CoreCompileInputs.cache
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.exe
+C:\Users\mmdar\source\repos\Avdelningsrapport\Avdelningsrapport\obj\Debug\Avdelningsrapport.pdb

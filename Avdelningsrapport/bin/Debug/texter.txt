@@ -1,0 +1,12 @@
+Pippi Långstrump###Astrid Lindgren###Roman###true
+En komikers uppväxt###Jonas Gardell###Roman###true
+Ondskan###Jan Guillou###Roman###false
+Vem älskar Yngve Frej?###Stig Claesson###Roman###true
+Den som vandrar om natten###Marianne Fredriksson###Roman###true
+Classic Motor Nr.9###Utg.Hjemmet Mortensen###Tidskrift###true
+Super Play Nr.3###Utg.Hjemmet Mortensen###Tidskrift###true
+Hälge Nr.36###Lars Mortimer###Tidskrift###true
+Herman Hedning Nr.14###Jonas Darnell###Tidskrift###true
+Travronden Nr.8###Utg.Joakim Svensson###Tidskrift###false
+Skärkarlsliv###August Strindberg###Novellsamling###true
+Ett fat amontillado###Edgar Allan Poe###Novellsamling###true
